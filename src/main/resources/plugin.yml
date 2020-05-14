@@ -1,0 +1,4 @@
+name: CalcBan
+version: ${project.version}
+main: mc.mec.calcban.CalcBan
+api-version: 1.13
